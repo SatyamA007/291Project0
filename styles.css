@@ -1,6 +1,29 @@
 body{
     text-align: center;
-    background-color: burlywood;
-    font-family: fantasy;
+    background-color: silver;
+    font-family: Verdana;
+    color: black;
     margin-block: 5;
 }
+
+ h1, h2{
+    font-family: fantasy
+  }
+
+table, th, td {
+    color: black;
+    border: solid 2px gray;
+  }
+
+    ul{
+      display: block;
+      float: right;   
+      width: 200px;   
+    }
+    li{
+      text-align: left;
+    }
+  h3.alignright {
+    text-align: right;
+  }
+  
